@@ -1,0 +1,13 @@
+DOCUMENTACIÓN DE LA RAMA HOTFIX
+
+Objetivo:
+Practicar el registro y la publicación de cambios en la rama hotfix.
+
+Archivo:
+PracticaRamas/DocumentacionSolucionhotfix.txt
+
+Procedimiento de la práctica:
+1. Crear este archivo en la rama hotfix.
+2. Preparar el archivo y registrar su creación mediante un commit.
+3. Publicar el commit en GitHub mediante Push.
+4. Integrar posteriormente los cambios en la rama main mediante Merge.
